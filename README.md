@@ -22,6 +22,7 @@
 - [django-image-cropping](https://github.com/jonasundderwolf/django-image-cropping/) - Кроппинг загруженных изображений через панель администратора.
 - [django-nested-admin](https://github.com/theatlantic/django-nested-admin/) - Позволяет вложить `InlineModelAdmin` друг в друга. Drag-and-drop сортировка с помощью `django-admin-sortable2`.
 - [django-admin-charts](https://pypi.org/project/django-admin-charts/) - Позволяет создавать графики статистики для `django-admin` и `django-admin-tools`.
+- [django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) - Позволяет кастомизировать расцветку админки под люой вкус.
 
 ### Auth
 - [django-oauth-toolkit](https://github.com/jazzband/django-oauth-toolkit/) - Набор утилит для интеграции OAuth2 в ваш проект.
